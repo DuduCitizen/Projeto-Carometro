@@ -1,5 +1,4 @@
 ![GitHub License](https://img.shields.io/github/license/DuduCitizen/kawasaki)
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fduducitizen.github.io%2Fkawasaki%2F)
 
 
 # Carômetro👤
